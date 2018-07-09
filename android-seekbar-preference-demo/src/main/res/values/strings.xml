@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SeekBarPreference Demo</string>
+
+    <string name="PreferenceTitle">Title</string>
+    <string name="PreferenceSummary">Description</string>
+    <string name="PreferenceFormat">%d%%</string>
+</resources>

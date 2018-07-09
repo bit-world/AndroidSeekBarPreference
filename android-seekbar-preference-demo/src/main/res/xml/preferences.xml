@@ -1,0 +1,16 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+                  xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ru.bit_world.androidseekbarpreference.SeekBarPreference
+        android:key="preference"
+        android:summary="@string/PreferenceSummary"
+        android:title="@string/PreferenceTitle"
+        app:format="@string/PreferenceFormat"
+        app:maxValue="100"
+		android:defaultValue="50"
+        app:minValue="0"
+        app:stepValue="1" />
+
+   
+
+</PreferenceScreen>
