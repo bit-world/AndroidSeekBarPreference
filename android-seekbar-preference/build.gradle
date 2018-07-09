@@ -26,7 +26,7 @@ android {
 publish {
     groupId = 'com.github.bit-world'
     artifactId = 'androidseekbarpreference'
-    publishVersion = '1.0'
+    publishVersion = '1.1'
     desc = 'Android - SeekBarPreference'
     licences = ['CC0-1.0']
     uploadName='AndroidSeekBarPreference'
