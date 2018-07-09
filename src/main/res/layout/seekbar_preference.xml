@@ -29,8 +29,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:singleLine="true"
-            android:textAppearance="?android:attr/textAppearanceListItem"
+            android:textAppearance="?android:attr/textAppearanceLarge"
             android:ellipsize="marquee"
+            android:fadingEdge="horizontal"
             tools:text="Title"/>
 
         <TextView
@@ -42,7 +43,7 @@
             android:layout_alignStart="@id/SeekBarPreferenceTitle"
             android:textAppearance="?android:attr/textAppearanceSmall"
             android:textColor="?android:attr/textColorSecondary"
-            android:maxLines="10"
+            android:maxLines="4"
             tools:text="Summary"/>
 
     </RelativeLayout>
