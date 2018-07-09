@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <declare-styleable name="SeekBarPreference"><attr name="android:defaultValue"/><attr format="integer" name="minValue"/><attr format="integer" name="maxValue"/><attr format="integer" name="stepValue"/><attr format="string" name="format"/></declare-styleable>
-</resources>
