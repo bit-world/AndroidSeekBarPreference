@@ -1,0 +1,7 @@
+.gradle
+.idea
+build
+gradle
+android-seekbar-preference\build
+android-seekbar-preference-demo\.idea
+android-seekbar-preference-demo\build
