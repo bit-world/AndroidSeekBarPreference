@@ -1,2 +1,0 @@
-# AndroidSeekBarPreference
-Android - SeekBarPreference
